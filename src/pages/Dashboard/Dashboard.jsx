@@ -18,7 +18,7 @@ import income1 from "./assets/income2.png";
 import income3 from "./assets/income3.png";
 import filter from "./assets/filter.png";
 import dropdown from "../components/assets/dropdown.png";
-import sort from "./assets/sort.png";
+import sort from "./assets/Sort.png";
 import failed from "./assets/failed.png";
 import pending from "./assets/pending.png";
 import completed from "./assets/completed.png";
