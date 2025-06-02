@@ -2,7 +2,7 @@ import React from "react";
 import saving1 from "./assets/saving1.png";
 import Dropdown from "../components/Dropdown";
 import Linechart from "./Linechart";
-import sort from "../Dashboard/assets/sort.png";
+import sort from "../Dashboard/assets/Sort.png";
 import transaction from "./assets/transaction.png";
 const Savingdetails = ({ plan }) => {
   if (!plan) {
