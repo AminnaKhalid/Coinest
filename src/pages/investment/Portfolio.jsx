@@ -1,5 +1,5 @@
 import React from 'react'
-import sort from "../Dashboard/assets/sort.png";
+import sort from "../Dashboard/assets/Sort.png";
 import transaction from "../Saving/assets/transaction.png";
 import Dropdown from "../components/Dropdown";
 import filter from "./assets/filter.png"
