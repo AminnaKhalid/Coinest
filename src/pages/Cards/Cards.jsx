@@ -4,7 +4,7 @@ import Heading from "../components/Heading";
 import card1 from "./assets/card1.png";
 import card2 from "./assets/card2.png";
 import card3 from "./assets/card3.png";
-import plus from "../Dashboard/assets/plus.png";
+import plus from "../Dashboard/assets/Plus.png";
 import topup from "../Dashboard/assets/topup.png";
 import transfer from "../Dashboard/assets/transfer.png";
 import threedot from "../Dashboard/assets/threedot.png";
