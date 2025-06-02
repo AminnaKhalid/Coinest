@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .card {
+        @apply border-[1px] border-[#E5E6E6] rounded-xl transition-all duration-300 ease-in-out p-4;
+        @apply bg-white hover:bg-gray-50;
+        @apply shadow-xs hover:shadow-sm;
+        @apply cursor-default;
+        @apply overflow-hidden;
+    }
+
+    .head {
+        @apply text-xl font-bold
+    }
+
+    .tabledata {
+        @apply text-[#6B7271] text-xs font-normal py-3 px-1 text-center;
+    }
+
+    .tablehead{
+        @apply flex  items-center space-x-1
+    }
+
+    .subhead {
+        @apply text-[#6B7271] text-[16px] font-normal text-left;
+    }
+    button{
+        @apply cursor-pointer
+    }
+
+    .content{
+        @apply text-[#6B7271] text-[16px] font-normal text-left
+    }
+
+}
